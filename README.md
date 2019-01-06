@@ -8,7 +8,7 @@
 
 * **Back End (Basic Practices)**
  
- [CS50's Web Programming with Python and JavaScript}(https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web)
+ [CS50's Web Programming with Python and JavaScript} (https://courses.edx.org/courses/course-v1:HarvardX+CS50W+Web)
 
 * **Back End (Advanced Practices)**
 
