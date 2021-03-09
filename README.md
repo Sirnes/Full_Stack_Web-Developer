@@ -7,7 +7,7 @@ Windows command line, NPM, GIT
 
 ### Web Fundamentals 
 
- **Front-end **
+ ###### Front-end 
 
 HTML, CSS, Javascript, DOM (Document Object Model), JQuery
    
