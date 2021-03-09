@@ -1,31 +1,30 @@
 # Front-end Web Developer
 
 ## Programming Fundamentals 
-Harvard University CS50 course
 
+Harvard University CS50 course
 Windows command line, NPM, GIT
 
 ### Web Fundamentals 
 
- ** Front-end **
+ **Front-end **
 
-   HTML, CSS, Javascript, DOM (Document Object Model), JQuery
+HTML, CSS, Javascript, DOM (Document Object Model), JQuery
    
-
-######Back-end (Basic)
+###### Back-end (Basic)
 
    
  
      
     
- ######Another Skills
+ ###### Another Skills
     
-    * Unity3D
+ * Unity3D
      
-    **Graphic skills**
+ ###### Graphic skills
     
-    * Adobe Illustrator
-    * Adobe Photoshop
-    * Adobe XD
-    * Blender
-    * Zbrush
+* Adobe Illustrator
+* Adobe Photoshop
+* Adobe XD
+* Blender
+* Zbrush
