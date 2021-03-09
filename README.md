@@ -5,23 +5,23 @@
 Harvard University CS50 course
 Windows command line, NPM, GIT
 
-### Web Fundamentals 
+## Web Fundamentals 
 
- ###### Front-end 
+### Front-end 
 
 HTML, CSS, Javascript, DOM (Document Object Model), JQuery
    
-###### Back-end (Basic)
+## Back-end (Basic)
 
    
  
      
     
- ###### Another Skills
+## Another Skills
     
- * Unity3D
+* Unity3D
      
- ###### Graphic skills
+## Graphic skills
     
 * Adobe Illustrator
 * Adobe Photoshop
