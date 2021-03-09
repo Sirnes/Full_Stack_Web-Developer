@@ -12,13 +12,13 @@ Windows command line, NPM, GIT
    HTML, CSS, Javascript, DOM (Document Object Model), JQuery
    
 
-   **Back-end (Basic)**
+######Back-end (Basic)
 
    
  
      
     
-    **Another Skills**
+ ######Another Skills
     
     * Unity3D
      
